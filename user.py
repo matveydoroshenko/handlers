@@ -1,3 +1,4 @@
+import sqlite3
 import fnmatch
 import os
 import os.path
